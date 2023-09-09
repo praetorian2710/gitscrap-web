@@ -1,0 +1,20 @@
+h3,
+p p {
+  color: aliceblue;
+}
+strong {
+  color: red;
+  text-decoration: underline;
+}
+.repnam {
+  border: 2px solid rgb(2, 89, 102);
+}
+.repman {
+  border: 2px solid rgb(2, 89, 102);
+}
+.repstar {
+  border: 2px solid rgb(2, 89, 102);
+}
+.replang {
+  border: 2px solid rgb(2, 89, 102);
+}
