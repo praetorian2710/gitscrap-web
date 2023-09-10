@@ -18,6 +18,8 @@ h1 {
   width: 300px;
   text-align: left;
   text-align: center;
+  background: #000000;
+  box-shadow: 15px 15px rgb(18, 18, 18);
 }
 a {
   text-decoration: none;
